@@ -32,6 +32,5 @@ class LargestThree {
 
         obj.findLargest();
 
-        sc.close();
     }
 }
